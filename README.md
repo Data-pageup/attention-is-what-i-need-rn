@@ -1,4 +1,4 @@
-#  Attention Mechanisms from Scratch
+#                                                                  Attention Mechanisms from Scratch
 
 This project is a hands-on implementation of core attention mechanisms used in Transformer architectures. The goal is to deeply understand how attention works by building each component from scratch on different datasets.
 
