@@ -1,9 +1,18 @@
-### From scratch
+#  Attention Mechanisms from Scratch
 
-##### 1. Simplified Self attention
-##### 2. Self attention with key,query & value
-##### 3. Masked self attention or Causal Self attention
-##### 4. Multi-Head Self attention 
+This project is a hands-on implementation of core attention mechanisms used in Transformer architectures. The goal is to deeply understand how attention works by building each component from scratch on different datasets.
+
+---
+
+##  Overview
 
 
-## Over the next 2 days i will be performing all  these 4 attentions from scratch on different data.
+1. **Simplified Self-Attention**
+2. **Self-Attention with Query, Key, and Value (QKV)**
+3. **Masked (Causal) Self-Attention**
+4. **Multi-Head Self-Attention**
+
+Each module builds upon the previous one, gradually introducing more complexity and realism.
+
+---
+
